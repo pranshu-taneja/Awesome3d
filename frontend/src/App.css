@@ -1,0 +1,20 @@
+#bgcolor{
+  box-shadow: rgb(52 52 52 / 55%) 4px 5px 30px 8px inset;
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+  display: none;
+}
+
+.canvas{
+  z-index: 1;
+}
+
+
+#colorPicker{
+  position: absolute;
+  top: 30vh;
+  left: 80vw;
+}
